@@ -1,4 +1,4 @@
-<h1 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Saibalaji Kokate</h1>
+<h1 >Hi, I'm Saibalaji Kokate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 <h3 >A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-kokate&label=Profile%20views&color=0e75b6&style=flat" alt="sai-kokate" /> </p>
