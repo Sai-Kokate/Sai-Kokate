@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript & React**
 
-- 📫 How to reach me **saikokate11@gmail.com**
+- 📫 How to reach me **work.saibalajikokate@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
